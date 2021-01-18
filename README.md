@@ -19,5 +19,5 @@ El usuario debe marcar la cantidad de cada fruta y el programa le mostrará el t
 - Para el diseño he usado *CSS3*.
 - Para el funcionamiento he usado *JavaScript*.
 
-
+## Nivel: básico :green_book:
 
